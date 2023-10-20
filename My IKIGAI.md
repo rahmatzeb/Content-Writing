@@ -12,7 +12,7 @@ Creating an IKIGAI, a Japanese concept that translates to "reason for being", re
 - Past internship experience, including skills in using GitHub for writing and Canva.
 - Active engagement on LinkedIn, reading valuable content, and creating and optimizing your profile.
 
-## I Good At:
+## I am Good At:
 
 - Persuasive writing skills with the ability to bring innovation through AI.
 - Proficiency in writing product descriptions.
@@ -24,13 +24,13 @@ Creating an IKIGAI, a Japanese concept that translates to "reason for being", re
   
 ## What The World Needs:
 
--Copywriting: Persuasive content creation for marketing, covering product descriptions, ad copy, and blog posts.
+- Copywriting: Persuasive content creation for marketing, covering product descriptions, ad copy, and blog posts.
 - Email Marketing: Crafting engaging email campaigns for customer engagement and conversions.
 - Storytelling: Constructing captivating narratives for brand engagement and loyalty.
 - Linguistics expertise for clear, compelling, and persuasive content.
 - Sociolinguistics for tailoring content to specific social contexts.
 
-## What You Can Be Paid For:
+## What I Can Be Paid For:
 
 - Content Writer/Copywriter.
 - Digital Marketing Specialist.
